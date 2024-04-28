@@ -8,4 +8,3 @@ This is the classic "Hello World!" test project, used to test GitHub and how rep
 # Development Environment
 
 This project was made in Python using Visual Studio Community Edition.
-
