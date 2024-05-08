@@ -1,6 +1,5 @@
 # This will calculate the shapes areas.
 
-import re
 
 
 def calculate_rectangle_area(width, height):
